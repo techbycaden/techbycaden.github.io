@@ -3,6 +3,7 @@ header {
     background: url("images/alireza-mirzabegi-U7L8hBBfSHc-unsplash.jpg");
     background-size: cover;
     color: white;
+    padding:20px 0px 0px 0px
   }
   h1 {
     font-family: "Big Shoulders Stencil", sans-serif;
@@ -26,3 +27,7 @@ article {
     padding: 20px;
     margin: 0 auto;
 }
+h2 {
+    font-family: "Big Shoulders Stencil", sans-serif;
+}
+
